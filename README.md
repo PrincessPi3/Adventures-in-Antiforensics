@@ -1,4 +1,4 @@
-# Adventures in Antiforensics
+# Adventures in Antiforensics and AV IDS/IPS/AV Evasion
 # WIP
 ## Platform Independant Methods
 ### Data Destruction
